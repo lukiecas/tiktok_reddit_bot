@@ -1,5 +1,6 @@
 # tiktok_reddit_bot
-Make reddit videos automatically
+Make reddit videos automatically.
+<br />
 <br />
 dependencies:
 - whisper
