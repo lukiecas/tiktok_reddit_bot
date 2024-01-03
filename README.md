@@ -10,3 +10,6 @@ dependencies:
 - tts (coqui AI)
 <br />
 only 1 background video is included, 1 extra is required for the program to function. be sure to name the downloaded background video "minecraft_vid_12min.mp4", or change the code to your preferred name.
+<br />
+<br />
+you will also need to enter your your own reddit api key for this to work.
