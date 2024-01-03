@@ -8,6 +8,7 @@ dependencies:
 - reddit
 - moviepy
 - tts (coqui AI)
+<br />
 only 1 background video is included,
 <br />
 1 extra is required for the program to function.
