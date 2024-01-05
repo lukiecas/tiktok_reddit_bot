@@ -9,7 +9,7 @@ for submission in reddit.subreddit(sub_name).top(time_filter="all", limit=1000):
     text = submission.title + submission.selftext 
     title = submission.title.replace(" " , "_")
     text = text.replace("AITA", "Am I in the wrong")
-    with open(f'./amitheasshole/{i}.txt', 'w') as f:
+    with open(f'./{sub_name}/{i}.txt', 'w') as f:
         f.write(text)
     i = i+1
 
