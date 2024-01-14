@@ -1,7 +1,7 @@
 import praw
 import os
-reddit = praw.Reddit(client_id='OCCThCqol3C9RYbKgOFdeg',
-                     client_secret='5j47nUj0NZq5Br1ikVaTS6GnFupcRA',
+reddit = praw.Reddit(client_id='*',
+                     client_secret='*',
                      user_agent='<console:redditpostcollector:1.0>')
 sub_name = input("enter subreddit name: ")
 i = 0
